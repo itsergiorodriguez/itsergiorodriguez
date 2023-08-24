@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://blogs.ucontinental.edu.pe/wp-content/uploads/2022/09/cuales-son-los-lenguajes-de-programacio%CC%81n.jpg" alt="Sergio's Banner" />
+</p>
 <h1 align="center">Hi 👋, I'm Sergio</h1>
 <h3 align="center">A passionate frontend and backend developer from Argentina</h3>
 
